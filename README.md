@@ -112,5 +112,6 @@ Projetos com Flet vêm crescendo como alternativa moderna para aplicações desk
 
 Desenvolvido por Sherlon Machado.
 
-GitHub: SHERLON20 GitHub
-LinkedIn: Sherlon Machado LinkedIn
+GitHub: https://github.com/SHERLON20/
+
+LinkedIn: https://www.linkedin.com/in/sherlon-machado/
